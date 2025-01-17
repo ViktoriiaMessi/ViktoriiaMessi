@@ -6,7 +6,9 @@
 
 ## About me
 
-I am originally from Ukraine, but I have been living in Belgium for 3 years. I am studying to be a programmer and I really want to stay in Belgium. My hobbies are volunteering and reading books. I also like nature and animals very much.
+I am originally from Ukraine, but I have been living in Belgium for 3 years. I am studying to be a programmer and I really want to stay in Belgium. 
+
+My hobbies are volunteering and reading books. I also like nature and animals very much.
 
 ## Education 🎓
 
@@ -20,15 +22,21 @@ I want the war to end in Ukraine and for there to be peace in the world. I would
 
 ## Soft skills 💡
 
-- flexibility
-- friendliness
-- creativity
+- communication
+- problem solving
+- teamwork
+- adaptability
+- time management
+- critical thinking
 
 ## Hard skills ⚙️
 
-- work experience of 11 years
-- high level of responsibility
-- good education
+- using the keyboard and mouse effectively
+- organizing files and folders on your computer
+- searching for information on Google
+- installing programs and extensions
+- reading documentation
+- using a word processor (e.g., VSCode)
 
 ## Messi is my cat ₍^. .^₎⟆
 

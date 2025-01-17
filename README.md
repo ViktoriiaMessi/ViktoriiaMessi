@@ -2,7 +2,7 @@
 
 
 
-# Viktoriia Sukhetska
+# Hi, I am Viktoriia Sukhetska 👋🏼
 
 ## About me
 
